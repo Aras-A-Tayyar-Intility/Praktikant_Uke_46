@@ -10,6 +10,11 @@ a {
     padding: 24px;
 }
 
+p {
+    text-align: center;
+    font-size: 40px;
+}
+
 .block {
     display: inline-block;
     width: 270px;
