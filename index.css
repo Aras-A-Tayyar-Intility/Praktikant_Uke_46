@@ -9,3 +9,21 @@ a {
     font-size: large;
     padding: 24px;
 }
+
+.block {
+    display: inline-block;
+    width: 270px;
+    height: 200px;
+    background-color: rgb(45, 44, 42);
+    border-radius: 30px;
+    margin: 24px;    
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .block img {
+   width: 200px;
+   height: 200px;
+  }
